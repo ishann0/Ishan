@@ -8,6 +8,7 @@ const About = () => {
   <img
    src='https://www.desktopbackground.org/download/o/2011/04/10/185520_itachi-uchiha-naruto-wallpapers-anime-wallpapers_1366x768_h.jpg'
    width={width}
+   alt='Hell'
    />
 </div>
   )

@@ -10,6 +10,8 @@ const Item3 = () => {
         <div className='Image'>
 <img src={YamanLogo}
 width= {width}
+alt='Hell'
+
 />
 </div>
     <h1>Yaman Sharma</h1>  

@@ -19,6 +19,8 @@ const Home = () => {
         <div className="content">
            <img src={Image1}
            width = {width}
+           alt='Hell'
+
            />           
           <h3>Mohit Walia</h3>
         </div>
@@ -36,6 +38,8 @@ const Home = () => {
         <div className="content">
         <img src={Image2}
            width = {width}
+           alt='Hell'
+
            />           
           <h3>Ishan Sharma</h3>        </div>
       </div>
@@ -53,6 +57,8 @@ const Home = () => {
         <div className="content">
         <img src={Image3}
            width = {width2}
+           alt='Hell'
+
            />           
           <h3>Yaman Sharma</h3>
 

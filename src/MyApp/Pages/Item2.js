@@ -9,6 +9,8 @@ const item2 = () => {
         <div className='Image'>
 <img src={IshanLogo}
 width= {width}
+alt='Hell'
+
 />
 </div>
     <h1>Ishan Sharma</h1>  

@@ -15,6 +15,8 @@ export default function header() {
   <Container fluid>
   <NavLink className="nav-link active" to= "/">  <img src={Logo}
     width = {width}  
+    alt='Hell'
+
     /></NavLink>
     <NavbarToggle aria-controls="basic-navbar-nav" />
     <NavbarCollapse id="basic-navbar-nav">

@@ -1,0 +1,17 @@
+
+form {
+    background: cadetblue !important;
+    margin: 5px 5px 5px 5px !important;
+}
+input#formBasicEmail {
+    background: black;
+    color: white;
+}
+input#formBasicPassword {
+    background: black;
+    color: white;
+}
+button.btn.btn-primary {
+    width: 100% !important;
+    background-color: black;
+}

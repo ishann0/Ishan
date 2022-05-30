@@ -1,6 +1,6 @@
 import React from 'react'
-import YamanLogo from '../assests/images/Image3.png'
-import '../assests/CSS/Posts.css'
+import YamanLogo from '../Assests/Images/Image3.png'
+import '../Assests/CSS/Posts.css'
 
 const Item3 = () => {
     const width = '150px';

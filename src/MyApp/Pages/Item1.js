@@ -1,6 +1,6 @@
 import React from 'react';
-import MohitLogo from '../assests/images/Image1.png'
-import '../assests/CSS/Posts.css'
+import MohitLogo from '../Assests/Images/Image1.png'
+import '../Assests/CSS/Posts.css'
 const Item1 = () => {
     const width='100px'
   return (

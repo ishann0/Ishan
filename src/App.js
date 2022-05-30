@@ -1,12 +1,12 @@
 import React from 'react';
 import './App.css';
-import Home from "./MyApp/pages/HomePage";
-import Item1 from './MyApp/pages/Item1'
-import Item2 from './MyApp/pages/Item2'
-import Item3 from './MyApp/pages/Item3'
-import About from './MyApp/pages/AboutPage';
+import Home from "./MyApp/Pages/HomePage";
+import Item1 from './MyApp/Pages/Item1'
+import Item2 from './MyApp/Pages/Item2'
+import Item3 from './MyApp/Pages/Item3'
+import About from './MyApp/Pages/AboutPage';
 import Header from "./MyApp/Header";
-import Contact from "./MyApp/pages/ContactPage";
+import Contact from "./MyApp/Pages/ContactPage";
 import Footer from "./MyApp/Footer";
 import {
   BrowserRouter,

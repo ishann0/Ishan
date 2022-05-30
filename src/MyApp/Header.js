@@ -7,7 +7,7 @@ import { Navbar } from 'react-bootstrap'
 import { Nav } from 'react-bootstrap'
 import NavbarToggle from 'react-bootstrap/esm/NavbarToggle';
 import NavbarCollapse from 'react-bootstrap/esm/NavbarCollapse';
-import Logo from './assests/images/logo2.png'
+import Logo from './Assests/Images/logo2.png'
 export default function header() {
   let width='100px'
   return (

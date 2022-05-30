@@ -1,5 +1,5 @@
 import React from 'react'
-import '../assests/CSS/ContactCSS.css'
+import '../Assests/CSS/ContactCSS.css'
 import { Form } from 'react-bootstrap';
 import { FormGroup } from 'react-bootstrap';
 import { FormLabel } from 'react-bootstrap';

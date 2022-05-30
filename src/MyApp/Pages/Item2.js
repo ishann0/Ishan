@@ -1,5 +1,5 @@
 import React from 'react'
-import IshanLogo from '../Assests/images/Image2.png'
+import IshanLogo from '../Assests/Images/Image2.png'
 import '../Assests/CSS/Posts.css'
 const item2 = () => {
   const width= '100px'

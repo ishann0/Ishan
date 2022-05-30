@@ -1,5 +1,5 @@
 import React from 'react'
-import AboutComponents from '../components/About'
+import AboutComponents from '../Components/About'
 const About = () => {
   return (
 <AboutComponents/>

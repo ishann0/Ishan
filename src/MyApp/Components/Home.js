@@ -22,7 +22,7 @@ const Home = () => {
            alt='Hell'
 
            />           
-          <h3>Mohit Walia</h3>
+          <h3>Ishan Sharma</h3>
         </div>
       </div>
       <div className="face face2">
@@ -60,7 +60,7 @@ const Home = () => {
            alt='Hell'
 
            />           
-          <h3>Yaman Sharma</h3>
+          <h3>Ishan Sharma</h3>
 
         </div>
       </div>

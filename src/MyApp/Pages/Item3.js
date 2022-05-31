@@ -14,7 +14,7 @@ alt='Hell'
 
 />
 </div>
-    <h1>Yaman Sharma</h1>  
+    <h1>Ishan Sharma</h1>  
 
     </div>
     </div>

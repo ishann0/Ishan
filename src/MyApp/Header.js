@@ -11,6 +11,8 @@ import Logo from './Assests/Images/logo2.png'
 export default function header() {
   let width='100px'
   return (
+    <div className="navbar navbar-inverse navbar-fixed-top">
+
     <div className='container'>
     <Navbar bg="light" expand="lg">
   <Container fluid>
@@ -29,6 +31,7 @@ export default function header() {
     </NavbarCollapse>
   </Container>
 </Navbar> 
+</div>
 </div>
  )
 

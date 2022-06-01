@@ -11,7 +11,7 @@ const contact = () => {
 
   return (
       <div class="container">
-        <h1>Contact Us</h1>
+        <h1>Get In Touch</h1>
 <Form>
   <FormGroup className="mb-3" controlId="formBasicEmail">
     <FormLabel>Email address</FormLabel>

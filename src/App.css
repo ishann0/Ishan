@@ -12,7 +12,24 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+@media (min-width: 1200px){
+.container {
+    max-width: 1200px;}
+}
 
+@media (min-width: 1360px){
+  .container {
+      max-width: 1360px;}
+  }
+  @media (min-width: 1500px){
+    .container {
+        max-width: 1500px;}
+    }
+    @media (min-width: 1920px){
+      .container {
+          max-width: 1920px;}
+      }
+    
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -37,10 +54,6 @@
   }
 }
 
-/* div#root {
-    background-image: url(https://wallpapercave.com/wp/wp2668333.jpg);
-    background-repeat: no-repeat;
-} */
 .container {
   background-image: url(https://wallpapercave.com/wp/wp2668333.jpg);
 }
@@ -48,7 +61,9 @@
   background: transparent !important;
 }
 .navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
-  color: cadetblue;
+  background: linear-gradient(90deg, #070000 0%, #4c0001 50%, #070000 100%);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
   font-size: x-large;
   font-weight: 600;
 }

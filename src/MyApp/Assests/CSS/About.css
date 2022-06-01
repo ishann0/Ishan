@@ -1,0 +1,13 @@
+.col h4 {
+    font-family: emoji;
+    font-size: xx-large;
+    padding: 90px 0px 0px 0px;
+    background: linear-gradient(90deg, #070000 0%, #4c0001 50%, #070000 100%);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+h1{
+    background: linear-gradient(90deg, #070000 0%, #4c0001 50%, #070000 100%);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}

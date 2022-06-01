@@ -11,6 +11,7 @@ import Logo from './Assests/Images/logo2.png'
 export default function header() {
   let width='100px'
   return (
+    <div className='container'>
     <Navbar bg="light" expand="lg">
   <Container fluid>
   <NavLink className="nav-link active" to= "/">  <img src={Logo}
@@ -27,7 +28,9 @@ export default function header() {
       </Nav>
     </NavbarCollapse>
   </Container>
-</Navbar>  )
+</Navbar> 
+</div>
+ )
 
 
 }

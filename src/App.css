@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+/* div#root {
+    background-image: url(https://wallpapercave.com/wp/wp2668333.jpg);
+    background-repeat: no-repeat;
+} */
+.container {
+  background-image: url(https://wallpapercave.com/wp/wp2668333.jpg);
+}
+.bg-light {
+  background: transparent !important;
+}
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+  color: cadetblue;
+  font-size: x-large;
+  font-weight: 600;
+}

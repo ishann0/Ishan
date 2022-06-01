@@ -10,9 +10,6 @@ const Home = () => {
   const width2= '150px'
   return (
     <div className='container'>
-      <div className='Heading'>
-        <h1> Home </h1>
-      </div>
         <div className="container1">
     <div className="cards">
       <div className="face face1">
@@ -23,7 +20,7 @@ const Home = () => {
 
            />           
           <h3>Ishan Sharma</h3>
-        </div>
+        </div> 
       </div>
       <div className="face face2">
         <div className="content">

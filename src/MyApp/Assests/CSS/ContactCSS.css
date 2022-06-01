@@ -1,17 +1,14 @@
 
-form {
-    background: cadetblue !important;
-    margin: 5px 5px 5px 5px !important;
-}
-input#formBasicEmail {
-    background: black;
+.container h1 {
+    text-align: center;
     color: white;
 }
-input#formBasicPassword {
-    background: black;
+.mb-3 label.form-label {
+color :white;
+}
+.form-check label.form-check-label {
     color: white;
 }
-button.btn.btn-primary {
-    width: 100% !important;
-    background-color: black;
+button.c-button.btn.btn-primary {
+    background-color: initial;
 }

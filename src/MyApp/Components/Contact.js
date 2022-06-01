@@ -12,13 +12,11 @@ const contact = () => {
 
   return (
       <div class="container">
+        <h1>Contact Us</h1>
 <Form>
   <FormGroup className="mb-3" controlId="formBasicEmail">
     <FormLabel>Email address</FormLabel>
     <FormControl type="email" placeholder="Enter email" />
-    <FormText className="text-muted">
-      We'll never share your email with anyone else.
-    </FormText>
   </FormGroup>
 
   <FormGroup className="mb-3" controlId="formBasicPassword">
@@ -28,7 +26,7 @@ const contact = () => {
   <FormGroup className="mb-3" controlId="formBasicCheckbox">
     <FormCheck type="checkbox" label="Check me out" />
   </FormGroup>
-  <Button variant="primary" type="submit">
+  <Button variant="primary" type="submit" className='c-button'>
     Submit
   </Button>
 </Form>

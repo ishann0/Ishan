@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.css';
+// import Background from './MyApp/Assests/Images/';
 import Home from "./MyApp/Pages/HomePage";
 import Item1 from './MyApp/Pages/Item1'
 import Item2 from './MyApp/Pages/Item2'
@@ -16,6 +17,7 @@ import {
 
 function App() {
   return (
+    <div className='Container'>
     <BrowserRouter>
       <Header />
       
@@ -31,6 +33,7 @@ function App() {
 
     <Footer/>
     </BrowserRouter>
+    </div>
  );
 }
 

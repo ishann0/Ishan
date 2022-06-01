@@ -11,3 +11,7 @@ h1{
     background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+.col {
+    word-wrap: break-word;
+    overflow: hidden;
+}

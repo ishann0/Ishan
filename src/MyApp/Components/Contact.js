@@ -4,7 +4,6 @@ import { Form } from 'react-bootstrap';
 import { FormGroup } from 'react-bootstrap';
 import { FormLabel } from 'react-bootstrap';
 import { FormControl } from 'react-bootstrap';
-import { FormText } from 'react-bootstrap';
 import { FormCheck } from 'react-bootstrap';
 import { Button } from 'react-bootstrap';
 const contact = () => {

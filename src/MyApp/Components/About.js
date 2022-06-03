@@ -16,7 +16,7 @@ src={MyPic}
 alt='Mypic'
 />
 </Col>
-    <Col>
+    <Col class='Text'>
     <h4>
 “My name is Ishan Sharma and I am a full-time freelance web developer who specializes in creating dynamic and beautiful web pages. 
 I have been in the field for nearly 1 year, and have been loving every minute of it. 

@@ -9,6 +9,7 @@ import About from './MyApp/Pages/AboutPage';
 import Header from "./MyApp/Header";
 import Contact from "./MyApp/Pages/ContactPage";
 import Footer from "./MyApp/Footer";
+import Carousel from './MyApp/Components/Carousel';
 import {
   BrowserRouter,
   Routes,Route
@@ -28,7 +29,7 @@ function App() {
 <Route path = '/Item1' element = {< Item1/>}/>
 <Route path = '/Item2' element = {< Item2/>}/>
 <Route path = '/Item3' element = {< Item3/>}/>
-
+<Route path = '/Carousel' element = {< Carousel />}/>
 </Routes>
 
     <Footer/>

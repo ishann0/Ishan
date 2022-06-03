@@ -54,9 +54,7 @@
   }
 }
 
-.container {
-  background-image: url(https://wallpapercave.com/wp/wp2668333.jpg);
-}
+
 .bg-light {
   background: transparent !important;
 }
@@ -66,4 +64,22 @@
   -webkit-text-fill-color: transparent;
   font-size: x-large;
   font-weight: 600;
+}
+@media screen and (max-width: 780px) {
+  #sidebar {
+   display: none;
+  }
+}
+@media screen and (max-width: 1920px) {
+  .navbar {
+   display: none;
+  }
+}
+@media screen and (max-width: 780px) {
+  .navbar {
+   display: block;
+  }
+}
+.main-menu-icon {
+  width: 35% !important;
 }

@@ -30,7 +30,7 @@ export default function header() {
             </div>
         </div>
         <main className="col-md-9 float-left col px-5 pl-md-2 pt-2 main-menu-icon">
-            <a data-target="#sidebar" data-toggle="collapse"><i className="text-dark fa fa-navicon fa-lg py-2 p-1"></i></a>
+            <a href="" data-target="#sidebar" data-toggle="collapse"><i className="text-dark fa fa-navicon fa-lg py-2 p-1"></i></a>
         </main>
     </div>
 </div>

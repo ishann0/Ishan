@@ -7,7 +7,6 @@ import MyPic from '../Assests/Images/Myimg.png'
 const About = () => {
   return (
     <div className='container'>
-
     <div className='heading'><h1>About Me</h1></div>
     <Row>
     <Col>

@@ -172,3 +172,13 @@
   .main {
     width: 35% !important;
   }
+  .fa.fa-navicon:before, .fa.fa-reorder:before {
+    color: white !important;
+}
+.fa.fa-navicon:hover {
+  color: #255784;
+  background: linear-gradient(45deg, black, transparent);
+  box-shadow: 0 0 10px #2196f3, 0 0 40px #2196f3, 0 0 80px #2196f3;
+  border: 2px solid cyan;
+  border-radius: 30px;
+}
